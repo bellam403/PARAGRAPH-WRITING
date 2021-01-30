@@ -1,0 +1,35 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXaIQa4OCrLjctuA8WHXGM1GSbUJMVJx9spw&usqp=CAU") ;
+    color: white;
+    text-align: center;
+}
+
+#b1 {
+    background-image: linear-gradient(to bottom right,green ,yellow );
+    color: white;
+    font-size: 15px;
+}
+
+#b2 {
+    background-image: linear-gradient(to bottom right,green ,yellow );
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+
+h1 {
+    text-shadow: 2px 2px blue;
+    color: magenta;
+}
+
+h3 {
+    text-shadow: 2px 2px gray;
+    height: 300px;
+    width: 1330;
+    color:white
+}
+
+input {
+    background-color: brown;
+    color: white;
+}
